@@ -1,5 +1,5 @@
 void main() {
-	int age = 18;
+  int age = 18;
   double height = 5.5;
   String name = 'Hasan';
   bool isActive = true;
