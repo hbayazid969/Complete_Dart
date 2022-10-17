@@ -1,6 +1,6 @@
 //practice
-//print ascii value for characters
 
+//print ascii value for characters
 void main(){
   String s = 'hello';
   print(s.codeUnits);
@@ -8,8 +8,9 @@ void main(){
   print(s.runes); //Similar
 }
 
-//some impoprtant string methods
 
+
+//some impoprtant string methods
 void main(){
   String s = '     life goal    ';
   String s1 = 'hello';
@@ -26,8 +27,9 @@ void main(){
   print(s.replaceAll('a','o')); //replace word
 }
 
-//reverse a string
 
+
+//reverse a string
 String reverseStringUsingCodeUnits(String s) {
   return String.fromCharCodes(s.codeUnits);
 }
