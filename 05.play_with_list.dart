@@ -1,4 +1,4 @@
-//practice dart list
+//practice
 //Dart list length & reverse
 
 void main(){
