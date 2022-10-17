@@ -20,3 +20,61 @@ void main() {
   print('My active status is : $isActive');
   
 }
+
+
+//List in dart
+
+void main(){
+  List<String> student = 
+    ['Rafiq','Shafiq','Kalam','Mujib','Shanto'];
+  
+  List<int> roll =[1,5,6,7,2,5];
+  
+  print(student);
+  print(roll);
+}
+
+
+//map in dart
+
+void main(){
+  
+  Map<String,dynamic> teacher = 
+    {'name' : 'Habibur Rahman',
+     'age' : 30,
+     'id' : 101
+     };
+  
+  List< Map<String,dynamic> > player =
+  [
+     {'name' : 'Habibur Rahman',
+     'age' : 30,
+     'id' : 101
+     },
+     {'name' : 'Sabbir Rahman',
+     'age' : 26,
+     'id' : 102
+     },
+     {'name' : 'Afif Sarker',
+     'age' : 20,
+     'id' : 103
+     }
+  ];
+  
+  print(teacher.keys);
+  print(player);
+
+}
+
+//set in dart
+
+void main(){
+  
+  Set<int> userId ={1,1,2,2,3,3,4,4,5,5};
+  
+  Set<String> userName ={'sakib','sakib','hanif','rakib'};
+  
+  print(userId);
+  print(userName);
+  
+}
