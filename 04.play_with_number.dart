@@ -1,22 +1,23 @@
 //practice
-//check the number evern or not
 
+//check the number evern or not
 void main(){
  int a = 7;
  print(a.isEven);
 }
 
-//check the number odd or not
 
+//check the number odd or not
 void main(){
  int a = 9;
  print(a.isOdd);
 }
 
+
+
 //check number is negative or not
 //check number runtime type
 //returns the absolute vale 
-
 void main(){
  int a = -8;
  print(a.isNegative);
@@ -26,7 +27,6 @@ void main(){
 
 
 //Type casting string to int
-
 void main(){
  String s1 = '10';
  String s2 = '20';
@@ -40,16 +40,18 @@ void main(){
  print("Result is  : ${a1+a2}");
 }
 
-//Type casting double to int
 
+
+//Type casting double to in
 void main(){
  double b = 10.50;
  int b1 = b.toInt();
  print(b1);
 }
 
-//some double operation
 
+
+//some double operation
 void main(){
  double d = 5.99;
  print( d.ceil());
@@ -58,16 +60,18 @@ void main(){
  print(d.truncate());
 }
 
-//fix decimal point number
 
+
+//fix decimal point number
 void main(){
  double d = 5.236534;
  print(d.toStringAsFixed(2));
  print(d.toStringAsPrecision(3));
 }
 
-//compare to method
 
+
+//compare to method
 void main(){
  int a = 3;
  int b = 2;
@@ -75,8 +79,9 @@ void main(){
  print(a.compareTo(b));
 }
 
-//some math function in dart
 
+
+//some math function in dart
 import 'dart:math';
 void main(){
  int a = 5;
