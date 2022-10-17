@@ -1,3 +1,4 @@
+//practice
 //check the number evern or not
 
 void main(){
