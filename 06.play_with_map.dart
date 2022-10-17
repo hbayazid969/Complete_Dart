@@ -11,6 +11,7 @@ void main(){
   print(employee);  
 }
 
+
 //Dart map all key value update
 void main(){
   Map<String,dynamic> employee={
@@ -21,6 +22,7 @@ void main(){
   employee.updateAll((key,value)=> 3000);
   print(employee);  
 }
+
 
 //Dart map some function
 void main(){
@@ -35,6 +37,7 @@ void main(){
   employee.addAll({'emp4':2000,'emp5':7500}); 
   print(employee);
 }
+
 
 //Dart map some function 
 void main(){
