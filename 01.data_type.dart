@@ -1,6 +1,6 @@
 //practice
-//Data Types and Variable
 
+//Data Types and Variable
 void main() {
   
   //declare integer value
@@ -24,7 +24,6 @@ void main() {
 
 
 //List in dart
-
 void main(){
   List<String> student = 
     ['Rafiq','Shafiq','Kalam','Mujib','Shanto'];
@@ -37,7 +36,6 @@ void main(){
 
 
 //map in dart
-
 void main(){
   
   Map<String,dynamic> teacher = 
@@ -67,8 +65,8 @@ void main(){
 
 }
 
-//set in dart
 
+//set in dart
 void main(){
   
   Set<int> userId ={1,1,2,2,3,3,4,4,5,5};
