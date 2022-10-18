@@ -13,12 +13,12 @@
 
 # Dart OOP
 
-1.Class
-2.Object
-3.Constructor
-4.setter and getter
-5.inheritance
-6.abstraction
-7.overriding
-8.interface
-9.static
+1.Class <br>
+2.Object <br>
+3.Constructor <br>
+4.setter and getter <br>
+5.inheritance <br>
+6.abstraction <br>
+7.overriding <br>
+8.interface <br>
+9.static <br>
