@@ -12,3 +12,13 @@
 8.function <br>
 
 # Dart OOP
+
+1.Class
+2.Object
+3.Constructor
+4.setter and getter
+5.inheritance
+6.abstraction
+7.overriding
+8.interface
+9.static
