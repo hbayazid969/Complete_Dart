@@ -1,8 +1,5 @@
 //abstract class
-/*
- actual internal working of the function
- hides from the users.
- */
+
 
 void main(){
   var r = Rules();
